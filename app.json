@@ -1,0 +1,7 @@
+{
+  "name": "DatingApp",
+  "displayName": "DatingApp",
+  "androidStatusBar": {
+	  "backgroundColor": "#000000"
+	}
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1043525009680-b9h7fg02nuhcc08l2dqs61u3t477bc47.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1043525009680-b9h7fg02nuhcc08l2dqs61u3t477bc47</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1043525009680-rhdq5k6pico231iq485ethlnsshv0p4r.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCPGk4AY93XZ6pPJFR0Y6TY7VeXm2zu5tA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1043525009680</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.nile.Topspot</string>
+	<key>PROJECT_ID</key>
+	<string>nile-speed-dating</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nile-speed-dating.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1043525009680:ios:9590c479005f708ae4e595</string>
+	<key>DATABASE_URL</key>
+	<string>https://nile-speed-dating.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "1043525009680",
+    "firebase_url": "https://nile-speed-dating.firebaseio.com",
+    "project_id": "nile-speed-dating",
+    "storage_bucket": "nile-speed-dating.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043525009680:android:b294662d7fcfaf97e4e595",
+        "android_client_info": {
+          "package_name": "com.datingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043525009680-mmsn0lct80jvtil4snfmtd3oet82tut8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.datingapp",
+            "certificate_hash": "7d59b6ecd4c693d21b98e5b648d39b8198654812"
+          }
+        },
+        {
+          "client_id": "1043525009680-rhdq5k6pico231iq485ethlnsshv0p4r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.datingapp",
+            "certificate_hash": "0fde516768d34e66f327f0d1d19a47120a68d586"
+          }
+        },
+        {
+          "client_id": "1043525009680-h98ufcut38nkrv2q5srekijcda7st53l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.datingapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1043525009680-u4bnf1lio2s83qv7njorpbl2iknlco62.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGFpNqKMU_q6jFNyl_nP5-2wB509UIgb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043525009680-u4bnf1lio2s83qv7njorpbl2iknlco62.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1043525009680-b9h7fg02nuhcc08l2dqs61u3t477bc47.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.nile.Topspot"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
